@@ -1,0 +1,309 @@
+[{
+  "_id": {
+    "$oid": "623741c8034efd14142bc298"
+  },
+  "taxPrice": 28050,
+  "shippingPrice": 10000,
+  "totalPrice": 225050,
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "623741c8034efd14142bc299"
+      },
+      "book": {
+        "$oid": "622ec087f0fc3613882d4940"
+      },
+      "name": "Sự Im Lặng Của Bầy Cừu",
+      "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/i/m/image_180812.jpg",
+      "price": 97000,
+      "quantity": 1
+    },
+    {
+      "_id": {
+        "$oid": "623741c8034efd14142bc29a"
+      },
+      "book": {
+        "$oid": "6235f115230a17bb1d95a9b3"
+      },
+      "name": "Cơ Thể Tự Chữa Lành: Giải Cứu Gan",
+      "image": "https://www.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/c/o/co-the-tu-chua-lanh-3_bia-1.jpg",
+      "price": 90000,
+      "quantity": 1
+    }
+  ],
+  "user": {
+    "$oid": "6230a6de80421b27b4de83b2"
+  },
+  "shippingAddress": {
+    "address": "Ho Chi Minh",
+    "city": "vn",
+    "postalCode": "123",
+    "country": "vn"
+  },
+  "paymentMethod": "PayPal",
+  "createdAt": {
+    "$date": "2022-03-20T15:01:28.546Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-20T15:01:28.546Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623743aa034efd14142bc29c"
+  },
+  "taxPrice": 40500,
+  "shippingPrice": 10000,
+  "totalPrice": 320500,
+  "isPaid": true,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "623743aa034efd14142bc29d"
+      },
+      "book": {
+        "$oid": "622ec087f0fc3613882d4942"
+      },
+      "name": "Khéo Ăn Nói Sẽ Có Được Thiên Hạ",
+      "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/b/i/bia_26_8.jpg",
+      "price": 60000,
+      "quantity": 2
+    },
+    {
+      "_id": {
+        "$oid": "623743aa034efd14142bc29e"
+      },
+      "book": {
+        "$oid": "6235f041230a17bb1d95a9b1"
+      },
+      "name": "Thần Số Học Ứng Dụng Cho Con",
+      "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/z/3/z3086480004598_0693fcc1efe237a22517291360c0ecc8.jpg",
+      "price": 150000,
+      "quantity": 1
+    }
+  ],
+  "user": {
+    "$oid": "62374319034efd14142bc29b"
+  },
+  "shippingAddress": {
+    "address": "123",
+    "city": "Ho Chi Minh",
+    "postalCode": "111",
+    "country": "Viet Nam"
+  },
+  "paymentMethod": "PayPal",
+  "createdAt": {
+    "$date": "2022-03-20T15:09:30.145Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-20T15:10:22.871Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2022-03-20T15:10:22.863Z"
+  },
+  "paymentResult": {
+    "id": "7NX1361508447224G",
+    "status": "COMPLETED",
+    "update_time": "2022-03-20T15:10:21Z",
+    "email_address": "sb-py42f14447563@personal.example.com"
+  }
+},{
+  "_id": {
+    "$oid": "62387459f9c0340ec4e9ac61"
+  },
+  "taxPrice": 54600,
+  "shippingPrice": 10000,
+  "totalPrice": 428600,
+  "isPaid": true,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62387459f9c0340ec4e9ac62"
+      },
+      "book": {
+        "$oid": "622ec087f0fc3613882d4934"
+      },
+      "name": "Mắt Biếc",
+      "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/m/a/mat-biec_bia-mem_in-lan-thu-44.jpg",
+      "price": 72000,
+      "quantity": 2
+    },
+    {
+      "_id": {
+        "$oid": "62387459f9c0340ec4e9ac63"
+      },
+      "book": {
+        "$oid": "6235f0a4230a17bb1d95a9b2"
+      },
+      "name": "Cơ Thể Tự Chữa Lành: Nước Ép Cần Tây",
+      "image": "https://www.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/i/m/image_217697.jpg",
+      "price": 100000,
+      "quantity": 1
+    },
+    {
+      "_id": {
+        "$oid": "62387459f9c0340ec4e9ac64"
+      },
+      "book": {
+        "$oid": "6235f169230a17bb1d95a9b4"
+      },
+      "name": "DevUP - Cuốn Sách Toàn Diện Dành Cho Lập Trình Viên",
+      "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/400x400/9df78eab33525d08d6e5fb8d27136e95/d/e/devup.jpg",
+      "price": 120000,
+      "quantity": 1
+    }
+  ],
+  "user": {
+    "$oid": "6230a6de80421b27b4de83b2"
+  },
+  "shippingAddress": {
+    "address": "Ho Chi Minh",
+    "city": "vn",
+    "postalCode": "123",
+    "country": "vn"
+  },
+  "paymentMethod": "PayPal",
+  "createdAt": {
+    "$date": "2022-03-21T12:49:29.297Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-21T12:52:31.617Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2022-03-21T12:52:31.591Z"
+  },
+  "paymentResult": {
+    "id": "2D050775PL811803W",
+    "status": "COMPLETED",
+    "update_time": "2022-03-21T12:52:29Z",
+    "email_address": "sb-py42f14447563@personal.example.com"
+  }
+},{
+  "_id": {
+    "$oid": "623918177a11211da4cecb77"
+  },
+  "taxPrice": 34800,
+  "shippingPrice": 10000,
+  "totalPrice": 276800,
+  "isPaid": true,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "623918177a11211da4cecb78"
+      },
+      "book": {
+        "$oid": "6235f169230a17bb1d95a9b4"
+      },
+      "name": "DevUP - Cuốn Sách Toàn Diện Dành Cho Lập Trình Viên",
+      "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/400x400/9df78eab33525d08d6e5fb8d27136e95/d/e/devup.jpg",
+      "price": 120000,
+      "quantity": 1
+    },
+    {
+      "_id": {
+        "$oid": "623918177a11211da4cecb79"
+      },
+      "book": {
+        "$oid": "622ec087f0fc3613882d4932"
+      },
+      "name": "Nhà Giả Kim",
+      "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/i/m/image_195509_1_36793.jpg",
+      "price": 56000,
+      "quantity": 2
+    }
+  ],
+  "user": {
+    "$oid": "623916727a11211da4cecb75"
+  },
+  "shippingAddress": {
+    "address": "Thu Duc",
+    "city": "Ho Chi Minh",
+    "postalCode": "123",
+    "country": "Viet Nam"
+  },
+  "paymentMethod": "PayPal",
+  "createdAt": {
+    "$date": "2022-03-22T00:28:07.128Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-22T00:29:04.637Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2022-03-22T00:29:04.615Z"
+  },
+  "paymentResult": {
+    "id": "6FX33118E4297722P",
+    "status": "COMPLETED",
+    "update_time": "2022-03-22T00:29:00Z",
+    "email_address": "sb-py42f14447563@personal.example.com"
+  }
+},{
+  "_id": {
+    "$oid": "623921037a11211da4cecb7a"
+  },
+  "taxPrice": 58500,
+  "shippingPrice": 10000,
+  "totalPrice": 458500,
+  "isPaid": true,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "623921037a11211da4cecb7b"
+      },
+      "book": {
+        "$oid": "6235f169230a17bb1d95a9b4"
+      },
+      "name": "DevUP - Cuốn Sách Toàn Diện Dành Cho Lập Trình Viên",
+      "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/400x400/9df78eab33525d08d6e5fb8d27136e95/d/e/devup.jpg",
+      "price": 120000,
+      "quantity": 2
+    },
+    {
+      "_id": {
+        "$oid": "623921037a11211da4cecb7c"
+      },
+      "book": {
+        "$oid": "6235f041230a17bb1d95a9b1"
+      },
+      "name": "Thần Số Học Ứng Dụng Cho Con",
+      "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/z/3/z3086480004598_0693fcc1efe237a22517291360c0ecc8.jpg",
+      "price": 150000,
+      "quantity": 1
+    }
+  ],
+  "user": {
+    "$oid": "62374319034efd14142bc29b"
+  },
+  "shippingAddress": {
+    "address": "Thu Duc",
+    "city": "Ho Chi Minh",
+    "postalCode": "123",
+    "country": "Viet Nam"
+  },
+  "paymentMethod": "PayPal",
+  "createdAt": {
+    "$date": "2022-03-22T01:06:11.231Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-22T01:06:44.555Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2022-03-22T01:06:44.539Z"
+  },
+  "paymentResult": {
+    "id": "4BW1563642524532N",
+    "status": "COMPLETED",
+    "update_time": "2022-03-22T01:06:41Z",
+    "email_address": "sb-py42f14447563@personal.example.com"
+  }
+}]
