@@ -1,2 +1,2 @@
 ## Simple ecommerce manager api
-## Swagger-ui: <a href="https://ecommerce-api.baonk.site" target="_blank">Todo app</a>
+## Link: <a href="https://ecommerce-api.baonk.site" target="_blank">Swageer UI</a>
