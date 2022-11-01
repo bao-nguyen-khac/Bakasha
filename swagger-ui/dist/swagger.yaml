@@ -53,6 +53,20 @@ paths:
                 $ref: '#/components/schemas/Successful'
         '404':
           description: Invalid Author Id
+  /book:
+    get:
+      tags:
+        - book
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/BooksResponse'          
+            application/xml:
+              schema:
+                $ref: '#/components/schemas/BooksResponse'
   /book/detail:
     get:
       tags:
@@ -101,6 +115,29 @@ paths:
                 $ref: '#/components/schemas/Successful'
         '404':
           description: Invalid Author Id
+  /book/delete:
+    delete:
+      tags:
+        - book
+      parameters:
+        - name: id
+          in: query
+          description: ID of book to delete
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Successful'          
+            application/xml:
+              schema:
+                $ref: '#/components/schemas/Successful'
+        '404':
+          description: Invalid Book Id
   /author/new:
     post:
       tags:
@@ -162,6 +199,29 @@ paths:
             schema:
               $ref: '#/components/schemas/AuthorRequest'
           required: true
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Successful'
+            application/xml:
+              schema:
+                $ref: '#/components/schemas/Successful'
+        '404':
+          description: Invalid Author Id
+  /author/delete:
+    delete:
+      tags:
+        - author
+      parameters:
+        - name: id
+          in: query
+          description: ID of author to delete
+          required: true
+          schema:
+            type: integer
       responses:
         '200':
           description: Successful operation
@@ -258,7 +318,29 @@ components:
         numBook:
           type: long
           example: 2
-
-        
-        
-  
+    BooksResponse:
+      type: array
+      items:
+        type: object
+        properties: 
+          id:
+            type: long
+            example: 1
+          name:
+            type: string
+            example: Docker in action
+          genres:
+            type: string
+            example: example
+          image:
+            type: string
+            example: image.link
+          description:
+            type: text
+            example: Text
+          authorId:
+            type: long
+            example: 1
+          authorName:
+            type: string
+            example: Docker
