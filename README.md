@@ -1,2 +1,3 @@
-## Simple ecommerce manager api
-## Link: <a href="http://35.185.184.61/" target="_blank">Swageer UI</a>
+## Simple REST API for Book Management
+
+### Link: <a href="https://book-api.baonk.site" target="_blank">book-api.baonk.site</a>
