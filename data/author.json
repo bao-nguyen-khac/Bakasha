@@ -1,0 +1,151 @@
+[{
+    "_id": {
+      "$oid": "622ec09af0fc3613882d4933"
+    },
+    "numBooks": 2,
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "name": "Nguyễn Nhật Ánh",
+    "about": "Nguyễn Nhật Ánh sinh ngày 7 tháng 5 năm 1955 tại tỉnh Quảng Nam.  Ông được coi là một trong những nhà văn thành công nhất viết sách cho tuổi thơ, tuồi mới lớn với hơn 100 tác phẩm các thể loại.",
+    "portrait": "https://www.nxbtre.com.vn/Images/Writer/nxbtre_thumb_30552016_085555.jpg",
+    "books": [
+      {
+        "$oid": "622ec087f0fc3613882d4934"
+      },
+      {
+        "$oid": "622ec087f0fc3613882d4935"
+      }
+    ],
+    "createdAt": {
+      "$date": "2022-03-14T04:12:10.212Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-14T04:14:05.240Z"
+    },
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "622ec09af0fc3613882d4935"
+    },
+    "numBooks": 3,
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "name": "Mario Puzo",
+    "about": "Nhà văn, biên kịch Mario Puzo nổi tiếng với tiểu thuyết về thế giới Mafia. Trong đó, tác phẩm Bố già (1969) được ông chuyển thể thành phim đã tạo tiếng tăm vang dội.",
+    "portrait": "https://upload.wikimedia.org/wikipedia/commons/4/48/Mario_Puzo_1972_%28cropped%29.jpg",
+    "books": [
+      {
+        "$oid": "622ec087f0fc3613882d4933"
+      },
+      {
+        "$oid": "622ec087f0fc3613882d4936"
+      },
+      {
+        "$oid": "622ec087f0fc3613882d4938"
+      }
+    ],
+    "createdAt": {
+      "$date": "2022-03-14T04:12:10.212Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-14T04:14:05.240Z"
+    },
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "622ec09af0fc3613882d4932"
+    },
+    "numBooks": 1,
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "name": "Nguyễn Hiển",
+    "about": "Học giả, nhà văn, dịch giả, nhà ngôn ngữ học, nhà giáo dục và hoạt động văn hóa độc lập Việt Nam",
+    "portrait": "https://upload.wikimedia.org/wikipedia/vi/thumb/a/a9/Nguyenhienle.jpg/150px-Nguyenhienle.jpg",
+    "books": [
+      {
+        "$oid": "6235f169230a17bb1d95a9b4"
+      }
+    ],
+    "createdAt": {
+      "$date": "2022-03-14T04:12:10.212Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-14T04:14:05.240Z"
+    },
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "6235f30e230a17bb1d95a9c0"
+    },
+    "numBooks": 1,
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "name": "Hikaru Nakamura",
+    "about": "Hikaru Nakamura là một họa sĩ truyện tranh Nhật Bản, người hầu hết được biết đến với \"Saint Young Men\" và \"Arakawa Under the Bridge\".",
+    "portrait": "https://images.gr-assets.com/authors/1473674604p5/3097060.jpg",
+    "books": [
+      {
+        "$oid": "6235ee01230a17bb1d95a9ad"
+      }
+    ],
+    "createdAt": {
+      "$date": "2022-03-14T04:12:10.212Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-14T04:14:05.240Z"
+    },
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "6235f397230a17bb1d95a9c5"
+    },
+    "numBooks": 1,
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "name": "ONE",
+    "about": "One-Punch Man là loạt tác phẩm siêu anh hùng Nhật Bản xuất phát điểm là web manga do ONE tạo ra vào năm 2009. Nội dung của loạt manga xoay quanh một siêu anh hùng tên là Saitama, anh có khả năng đánh bại bất cứ đối thủ nào chỉ bằng một cú đấm.",
+    "portrait": "https://s199.imacdn.com/ta/2017/10/31/b1fc9b8d2831b33b_859085e0b7c0c555_10790615094438316143215.jpg",
+    "books": [
+      {
+        "$oid": "6235ee69230a17bb1d95a9ae"
+      }
+    ],
+    "createdAt": {
+      "$date": "2022-03-14T04:12:10.212Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-14T04:14:05.240Z"
+    },
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "6235f4c4230a17bb1d95a9d4"
+    },
+    "numBooks": 2,
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "name": "Anthony William",
+    "about": "Được dịch từ tiếng Anh-Anthony William Coviello, được biết đến một cách chuyên nghiệp với cái tên Anthony William hay Medical Medium, là một phương tiện tự xưng là người đưa ra lời khuyên về y tế và sức khỏe giả khoa học dựa trên giao tiếp được cho là với Thần",
+    "portrait": "https://www.medicalmedium.com/banners/medical-medium-aw.jpg",
+    "books": [
+      {
+        "$oid": "6235f0a4230a17bb1d95a9b2"
+      },
+      {
+        "$oid": "6235f115230a17bb1d95a9b3"
+      }
+    ],
+    "createdAt": {
+      "$date": "2022-03-14T04:12:10.212Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-14T04:14:05.240Z"
+    },
+    "__v": 0
+  }]

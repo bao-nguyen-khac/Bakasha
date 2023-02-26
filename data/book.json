@@ -1,0 +1,772 @@
+[{
+    "_id": {
+      "$oid": "622ec087f0fc3613882d4932"
+    },
+    "rating": 5,
+    "numReviews": 0,
+    "price": 79000,
+    "sales": 56000,
+    "countInStock": 10,
+    "name": "Nhà Giả Kim",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/i/m/image_195509_1_36793.jpg",
+    "author": "Paulo Coelho",
+    "genres": "tieu-thuyet",
+    "language": "Việt Nam",
+    "publishedAt": "2020",
+    "publisher": "NXB Hội Nhà Văn",
+    "pages": 227,
+    "description": "Tất cả những trải nghiệm trong chuyến phiêu du theo đuổi vận mệnh của mình đã giúp Santiago thấu hiểu được ý nghĩa sâu xa nhất của hạnh phúc, hòa hợp với vũ trụ và con người. ",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:12:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "622ec087f0fc3613882d4933"
+    },
+    "rating": 5,
+    "numReviews": 0,
+    "price": 110000,
+    "sales": 72000,
+    "countInStock": 10,
+    "name": "Bố Già",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/8/9/8936071673381.jpg",
+    "author": "Mario Puzo",
+    "genres": "tieu-thuyet",
+    "language": "Việt Nam",
+    "publishedAt": "2016",
+    "publisher": "NXB Dân Trí",
+    "pages": 642,
+    "description": "Thế giới ngầm được phản ánh trong tiểu thuyết Bố già là sự gặp gỡ giữa một bên là ý chí cương cường và nền tảng gia tộc chặt chẽ theo truyền thống mafia xứ Sicily với một bên là xã hội Mỹ nhập nhằng đen trắng, mảnh đất màu mỡ cho những cơ hội làm ăn bất chính hứa hẹn những món lợi kếch xù.",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:13:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "622ec087f0fc3613882d4934"
+    },
+    "rating": 5,
+    "numReviews": 0,
+    "price": 110000,
+    "sales": 72000,
+    "countInStock": 10,
+    "name": "Mắt Biếc",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/m/a/mat-biec_bia-mem_in-lan-thu-44.jpg",
+    "author": "Nguyễn Nhật Ánh",
+    "genres": "tieu-thuyet",
+    "language": "Việt Nam",
+    "publishedAt": "2019",
+    "publisher": "NXB Trẻ",
+    "pages": 350,
+    "description": "Mắt biếc là một tác phẩm được nhiều người bình chọn là hay nhất của nhà văn Nguyễn Nhật Ánh. Tác phẩm này cũng đã được dịch giả Kato Sakae dịch sang tiếng Nhật để giới thiệu với độc giả Nhật Bản.",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:14:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "622ec087f0fc3613882d4935"
+    },
+    "rating": 5,
+    "numReviews": 0,
+    "price": 85000,
+    "sales": 59000,
+    "countInStock": 10,
+    "name": "Tôi Là Bêtô",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/i/m/image_180164_1_43_1_57_1_4_1_2_1_210_1_29_1_98_1_25_1_21_1_5_1_3_1_18_1_18_1_45_1_26_1_32_1_14_1_1236.jpg",
+    "author": "Nguyễn Nhật Ánh",
+    "genres": "tieu-thuyet",
+    "language": "Việt Nam",
+    "publishedAt": "2018",
+    "publisher": "NXB Trẻ",
+    "pages": 350,
+    "description": "Truyện Tôi là Bêtô là sáng tác mới nhất của nhà văn Nguyễn Nhật Ánh được viết theo phong cách hoàn toàn khác so với những tác phẩm trước đây của ông. Những mẩu chuyện, hay những phát hiện của chú chó Bêtô đầy thú vị, vừa hài hước, vừa chiêm nghiệm một cách nhẹ nhàng “vô vàn những điều thú vị mà cuộc sống cố tình giấu kín ở ngóc ngách nào đó trong tâm hồn của mỗi chúng ta”.",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:15:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "622ec087f0fc3613882d4936"
+    },
+    "rating": 4,
+    "numReviews": 1,
+    "price": 120000,
+    "sales": 72000,
+    "countInStock": 10,
+    "name": "Đất Máu Sicily",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/i/m/image_119095.jpg",
+    "author": "Mario Puzo",
+    "genres": "tieu-thuyet",
+    "language": "Việt Nam",
+    "publishedAt": "2018",
+    "publisher": "NXB Văn Học",
+    "pages": 488,
+    "description": "Tác phẩm Đất máu Sicily của Mario Puzo dựng lên một thế giới chằng chịt những âm mưu và thù hận, bạo lực sinh bạo lực, phản trắc sinh phản trắc. Ở trung tâm của thế giới ấy là thủ lĩnh băng cướp Turi Guiliano được khắc họa đầy lãng mạn như một chiến binh, một người tình, và trên hết là một người Sicily từ trong máu thịt.",
+    "reviews": [
+      {
+        "_id": {
+          "$oid": "6235fb79f3e8a116248e8319"
+        },
+        "name": "test1",
+        "avatar": "https://res.cloudinary.com/dsvc4kfvh/image/upload/v1616465442/nextjs_media/enuyffce830snq6ykbqo.png",
+        "rating": 4,
+        "comment": "hay ",
+        "user": {
+          "$oid": "6230a6de80421b27b4de83b2"
+        },
+        "createdAt": {
+          "$date": "2022-03-19T15:49:13.953Z"
+        },
+        "updatedAt": {
+          "$date": "2022-03-19T15:49:13.953Z"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2022-03-14T04:16:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-19T15:49:13.955Z"
+    },
+    "__v": 3
+  },{
+    "_id": {
+      "$oid": "622ec087f0fc3613882d4937"
+    },
+    "rating": 4,
+    "numReviews": 0,
+    "price": 110000,
+    "sales": 93000,
+    "countInStock": 10,
+    "name": "Cuộc Đời Của Pi",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://www.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/c/u/cuoc-doi-cua-pi.jpg",
+    "author": "Yann Martel",
+    "genres": "tieu-thuyet",
+    "language": "Việt Nam",
+    "publishedAt": "2019",
+    "publisher": "NXB Văn Học",
+    "pages": 455,
+    "description": "\"Mọi việc ở đời có bao giờ diễn ra như ta vẫn tưởng, nhưng biết làm sao. Cuộc đời đem cho ta cái gì thì ta phải nhận cái đó và chỉ còn cách làm cho chúng tốt đẹp nhất mà thôi.\"",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:17:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "622ec087f0fc3613882d4938"
+    },
+    "rating": 4,
+    "numReviews": 0,
+    "price": 95000,
+    "sales": 57000,
+    "countInStock": 10,
+    "name": "Luật Im Lặng",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/i/m/image_119110.jpg",
+    "author": "Mario Puzo",
+    "genres": "trinh-tham",
+    "language": "Việt Nam",
+    "publishedAt": "2016",
+    "publisher": "NXB Văn Học",
+    "pages": 370,
+    "description": "Cái luật im lặng cổ xưa ấy chính là bức tường thành của Mafia suốt mấy trăm năm. Nhưng đó là ở nơi đất máu Sicily nhiều năm trước. Trên đất Mỹ, khi nhân loại sắp bước sang thiên niên kỉ mới, liệu omerta có còn cái quyền năng vô song để bảo vệ các ông trùm?",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:18:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "622ec087f0fc3613882d4939"
+    },
+    "rating": 5,
+    "numReviews": 0,
+    "price": 135000,
+    "sales": 108000,
+    "countInStock": 10,
+    "name": "Án Mạng Trên Sông Nile",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/n/x/nxbtre_full_06352021_113536.jpg",
+    "author": "Agatha Christie",
+    "genres": "trinh-tham",
+    "language": "Việt Nam",
+    "publishedAt": "2021",
+    "publisher": "NXB Trẻ",
+    "pages": 370,
+    "description": "Linnet Ridgeway sở hữu trong tay tất cả mọi thứ mà bất cứ một người nào cũng có thể lấy làm ghen tị: tuổi trẻ, sắc đẹp, sự thông minh, của cải và một vị hôn phu rất xứng với cô. Rồi một ngày nọ, người bạn thân nhất của của Linnet - Jackie - đưa vị hôn phu điển trai của mình là Simon Doyle đến, để xin Linnet cho anh một việc làm.",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:19:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "622ec087f0fc3613882d4940"
+    },
+    "rating": 5,
+    "numReviews": 0,
+    "price": 115000,
+    "sales": 97000,
+    "countInStock": 10,
+    "name": "Sự Im Lặng Của Bầy Cừu",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/i/m/image_180812.jpg",
+    "author": "Thomas Harris",
+    "genres": "trinh-tham",
+    "language": "Việt Nam",
+    "publishedAt": "2019",
+    "publisher": "NXB Hội Nhà Văn",
+    "pages": 360,
+    "description": "Sự im lặng của bầy cừu hội tụ đầy đủ những yếu tố làm nên một cuốn tiểu thuyết trinh thám kinh dị xuất sắc nhất: không một dấu vết lúng túng trong những chi tiết thuộc lĩnh vực chuyên môn, với các tình tiết giật gân, cái chết luôn lơ lửng, với cuộc so găng của những bộ óc lớn mà không có chỗ cho kẻ ngu ngốc để cuộc chơi trí tuệ trở nên dễ dàng. Bồi đắp vào cốt truyện lôi cuốn đó là cơ hội được trải nghiệm trong trí não của cả kẻ gây tội lẫn kẻ thi hành công lý, khi mỗi bên phải vật vã trong ngục tù của đau đớn để tìm kiếm, khẩn thiết và liên tục, một sự lắng dịu cho tâm hồn.",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:20:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "622ec087f0fc3613882d4943"
+    },
+    "rating": 4,
+    "numReviews": 0,
+    "price": 110000,
+    "sales": 86000,
+    "countInStock": 10,
+    "name": "Tiệc Báo Thù",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://www.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/8/9/8935049512301.jpg",
+    "author": "Quỷ Cổ Nữ",
+    "genres": "trinh-tham",
+    "language": "Việt Nam",
+    "publishedAt": "2015",
+    "publisher": "Văn Học",
+    "pages": 394,
+    "description": "Một buổi trưa tháng Năm Giang Kinh, trời lành cảnh đẹp, nhưng tại tầng hai hội quán ẩm thực nọ, rèm cửa lại buông sùm sụp, không phải để ngăn tầm nhìn khách khứa ra khoảng không ấm áp bên ngoài, mà để ngăn lũ bóng thám sát lởn vởn ở rìa cửa sổ ngó vào bên trong.",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:21:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "622ec087f0fc3613882d4941"
+    },
+    "rating": 4,
+    "numReviews": 0,
+    "price": 145000,
+    "sales": 98000,
+    "countInStock": 10,
+    "name": "Phác Họa Chân Dung Kẻ Phạm Tội",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/p/h/ph_c-h_a-ch_n-dung-k_-ph_m-t_i.jpg",
+    "author": "Diệp Hồng Vũ",
+    "genres": "tam-ly",
+    "language": "Việt Nam",
+    "publishedAt": "2021",
+    "publisher": "NXB Thanh Niên",
+    "pages": 280,
+    "description": "Tội phạm, nhất là những vụ án mạng, luôn là một chủ đề thu hút sự quan tâm của công chúng, khơi gợi sự hiếu kỳ của bất cứ ai. Một khi đã bắt đầu theo dõi vụ án, hẳn bạn không thể không quan tâm tới kết cục, đặc biệt là cách thức và động cơ của kẻ sát nhân, từ những vụ án phạm vi hẹp cho đến những vụ án làm rúng động cả thế giới.",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:22:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "622ec087f0fc3613882d4942"
+    },
+    "rating": 5,
+    "numReviews": 0,
+    "price": 110000,
+    "sales": 60000,
+    "countInStock": 10,
+    "name": "Khéo Ăn Nói Sẽ Có Được Thiên Hạ",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/b/i/bia_26_8.jpg",
+    "author": "Trác Nhã",
+    "genres": "tam-ly",
+    "language": "Việt Nam",
+    "publishedAt": "2018",
+    "publisher": "NXB Văn Học",
+    "pages": 406,
+    "description": "Trong xã hội thông tin hiện đại, sự im lặng không còn là vàng nữa, nếu không biết cách giao tiếp thì dù là vàng cũng sẽ bị chôn vùi. Trong cuộc đời một con người, từ xin việc đến thăng tiến, từ tình yêu đến hôn nhân, từ tiếp thị cho đến đàm phán, từ xã giao đến làm việc... không thể không cần đến kĩ năng và khả năng giao tiếp.",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:23:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "622ec087f0fc3613882d4944"
+    },
+    "rating": 5,
+    "numReviews": 0,
+    "price": 80000,
+    "sales": 53000,
+    "countInStock": 10,
+    "name": "Trên Đường Băng",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/t/r/trenduongbang.jpg",
+    "author": "Tony Buổi Sáng",
+    "genres": "tam-ly",
+    "language": "Việt Nam",
+    "publishedAt": "2017",
+    "publisher": "NXB Trẻ",
+    "pages": 308,
+    "description": "Cuốn Trên Đường Băng được chia làm 3 phần: “Chuẩn bị hành trang”, “Trong phòng chờ sân bay” và “Lên máy bay”, tương ứng với những quá trình một bạn trẻ phải trải qua trước khi “cất cánh” trên đường băng cuộc đời, bay vào bầu trời cao rộng.",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:24:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "622ec087f0fc3613882d4945"
+    },
+    "rating": 4,
+    "numReviews": 0,
+    "price": 79000,
+    "sales": 51000,
+    "countInStock": 10,
+    "name": "Đọc Vị Bất Kỳ Ai",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://www.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/i/m/image_195509_1_12542.jpg",
+    "author": "David J Lieberman",
+    "genres": "tam-ly",
+    "language": "Việt Nam",
+    "publishedAt": "2019",
+    "publisher": "NXB Lao Động",
+    "pages": 308,
+    "description": "Hãy chiếm thế thượng phong trong việc chủ động nhận biết điều cần tìm kiếm - ở bất kỳ ai bằng cách “thâm nhập vào suy nghĩ” của người khác. ĐỌC VỊ BẤT KỲ AI là cẩm nang dạy bạn cách thâm nhập vào tâm trí của người khác để biết điều người ta đang nghĩ.",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:25:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "622ec087f0fc3613882d4950"
+    },
+    "rating": 4,
+    "numReviews": 0,
+    "price": 25000,
+    "sales": 20000,
+    "countInStock": 10,
+    "name": "Komi - Nữ Thần Sợ Giao Tiếp",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://www.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/k/o/komi---nu-than-so-giao-tiep-_-tap-7.jpg",
+    "author": "Tomohito Oda",
+    "genres": "manga-comic",
+    "language": "Tiếng Việt",
+    "publishedAt": "2022",
+    "publisher": "NXB Kim Đồng",
+    "pages": 192,
+    "description": "No description",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:26:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "6235ed9a230a17bb1d95a9ac"
+    },
+    "rating": 4,
+    "numReviews": 0,
+    "price": 22000,
+    "sales": 20000,
+    "countInStock": 10,
+    "name": "Thiên Thần Diệt Thế",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/t/h/thien-than-diet-the---tap-22_1.jpg",
+    "author": "Takaya Kagami",
+    "genres": "manga-comic",
+    "language": "Tiếng Việt",
+    "publishedAt": "2022",
+    "publisher": "NXB Kim Đồng",
+    "pages": 192,
+    "description": "Không có mô tả",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:27:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "6235ee01230a17bb1d95a9ad"
+    },
+    "rating": 5,
+    "numReviews": 0,
+    "price": 30000,
+    "sales": 25000,
+    "countInStock": 10,
+    "name": "Bên Dưới Cây Cầu Arakawa",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://www.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/b/e/ben-duoi-cay-cau-arakawwa-_-tap-10_1.jpg",
+    "author": "Hikaru Nakamura",
+    "genres": "manga-comic",
+    "language": "Tiếng Việt",
+    "publishedAt": "2022",
+    "publisher": "NXB Kim Đồng",
+    "pages": 200,
+    "description": "Không có mô tả",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:28:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "6235ee69230a17bb1d95a9ae"
+    },
+    "rating": 4,
+    "numReviews": 0,
+    "price": 30000,
+    "sales": 25000,
+    "countInStock": 10,
+    "name": "Mob Psycho 100",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://www.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/m/o/mob-psycho-100-_-tap13.jpg",
+    "author": "ONE",
+    "genres": "manga-comic",
+    "language": "Tiếng Việt",
+    "publishedAt": "2022",
+    "publisher": "NXB Kim Đồng",
+    "pages": 200,
+    "description": "Không có mô tả",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:29:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "6235eeb1230a17bb1d95a9af"
+    },
+    "rating": 4,
+    "numReviews": 0,
+    "price": 30000,
+    "sales": 27000,
+    "countInStock": 10,
+    "name": "Dã Ngoại Thảnh Thơi",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://www.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/d/a/da-ngoai-thanh-thoi---yurucamp-_-tap-7.jpg",
+    "author": "afro",
+    "genres": "manga-comic",
+    "language": "Tiếng Việt",
+    "publishedAt": "2022",
+    "publisher": "NXB Kim Đồng",
+    "pages": 200,
+    "description": "Không có mô tả",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:29:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "6235efa6230a17bb1d95a9b0"
+    },
+    "rating": 5,
+    "numReviews": 0,
+    "price": 77000,
+    "sales": 70000,
+    "countInStock": 10,
+    "name": "Thần Số Học Ứng Dụng",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://www.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/i/m/image_217703.jpg",
+    "author": "afro",
+    "genres": "khoa-hoc-ky-thuat",
+    "language": "Tiếng Việt",
+    "publishedAt": "2022",
+    "publisher": "NXB Kim Đồng",
+    "pages": 280,
+    "description": "Mỗi cái tên, mỗi ngày tháng và mỗi con số đều mang những ý nghĩa riêng và có thể giúp bạn hiểu sâu sắc hơn về bản thân, các mối quan hệ và số phận của mình. Bạn có từng băn khoăn khi tình cờ nhìn thấy các dãy số lặp lại như 11:11 hay 444 hay ngày sinh của bạn bè, người thân? Bạn có từng thắc mắc tại sao ngay trong lần gặp đầu tiên có những người mang lại cho bạn cảm giác thân thiết, những người khác lại không?",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:30:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "6235f041230a17bb1d95a9b1"
+    },
+    "rating": 5,
+    "numReviews": 0,
+    "price": 179000,
+    "sales": 150000,
+    "countInStock": 10,
+    "name": "Thần Số Học Ứng Dụng Cho Con",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/z/3/z3086480004598_0693fcc1efe237a22517291360c0ecc8.jpg",
+    "author": "Duke Tran",
+    "genres": "khoa-hoc-ky-thuat",
+    "language": "Tiếng Việt",
+    "publishedAt": "2022",
+    "publisher": "NXB Kim Đồng",
+    "pages": 236,
+    "description": "Cựu Đệ nhất Phu nhân Jacqueline Kennedy từng nói: “Nếu bạn không biết cách nuôi dạy con cái thì tất cả những việc khác bạn làm dù có tốt đến mấy cũng không thật sự có ý nghĩa”. Vậy muốn nuôi dạy con tốt, bạn cần có kim chỉ nam, cần có công cụ trong tay để sử dụng và hướng dẫn các con sử dụng công cụ ấy một cách thuần thục và đúng cách",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:31:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "6235f0a4230a17bb1d95a9b2"
+    },
+    "rating": 5,
+    "numReviews": 0,
+    "price": 118000,
+    "sales": 100000,
+    "countInStock": 10,
+    "name": "Cơ Thể Tự Chữa Lành: Nước Ép Cần Tây",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://www.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/i/m/image_217697.jpg",
+    "author": "Anthony William",
+    "genres": "khoa-hoc-ky-thuat",
+    "language": "Tiếng Việt",
+    "publishedAt": "2022",
+    "publisher": "NXB Kim Đồng",
+    "pages": 312,
+    "description": "Cuốn sách tập trung bàn về bản chất, công dụng của nước ép cần tây trong việc điều trị bệnh và phục hồi sức khỏe. Đây là phương pháp đã được vô số người áp dụng và mang lại những hiệu quả vô cùng sâu sắc",
+    "reviews": [],
+    "createdAt": {
+      "$date": "2022-03-14T04:32:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-15T14:47:30.362Z"
+    },
+    "__v": 2
+  },{
+    "_id": {
+      "$oid": "6235f115230a17bb1d95a9b3"
+    },
+    "rating": 4,
+    "numReviews": 1,
+    "price": 100000,
+    "sales": 90000,
+    "countInStock": 10,
+    "name": "Cơ Thể Tự Chữa Lành: Giải Cứu Gan",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://www.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/c/o/co-the-tu-chua-lanh-3_bia-1.jpg",
+    "author": "Anthony William",
+    "genres": "khoa-hoc-ky-thuat",
+    "language": "Tiếng Việt",
+    "publishedAt": "2022",
+    "publisher": "NXB Kim Đồng",
+    "pages": 624,
+    "description": "Cơ thể tự chữa lành - Giải cứu gan là cuốn sách tiếp theo trong bộ sách Cơ thể tự chữa lành của tác giả có sách bán chạy số 1 theo New York Times bình chọn: Anthony William. Trong tác phẩm mới này, ông sẽ hé mở bức màn bí mật về đặc điểm, cơ chế hoạt động và những điều bí ẩn xoay quanh lá gan của con người",
+    "reviews": [
+      {
+        "_id": {
+          "$oid": "62374416034efd14142bc29f"
+        },
+        "name": "user1",
+        "avatar": "https://res.cloudinary.com/dsvc4kfvh/image/upload/v1616465442/nextjs_media/enuyffce830snq6ykbqo.png",
+        "rating": 4,
+        "comment": "nice",
+        "user": {
+          "$oid": "62374319034efd14142bc29b"
+        },
+        "createdAt": {
+          "$date": "2022-03-20T15:11:18.188Z"
+        },
+        "updatedAt": {
+          "$date": "2022-03-20T15:11:18.188Z"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2022-03-14T04:33:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-20T15:11:18.189Z"
+    },
+    "__v": 3
+  },{
+    "_id": {
+      "$oid": "6235f169230a17bb1d95a9b4"
+    },
+    "rating": 5,
+    "numReviews": 2,
+    "price": 122000,
+    "sales": 120000,
+    "countInStock": 10,
+    "name": "DevUP - Cuốn Sách Toàn Diện Dành Cho Lập Trình Viên",
+    "user": {
+      "$oid": "622ebba203855a0bc07bb790"
+    },
+    "image": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/400x400/9df78eab33525d08d6e5fb8d27136e95/d/e/devup.jpg",
+    "author": "Nguyễn Hiển",
+    "genres": "khoa-hoc-ky-thuat",
+    "language": "Tiếng Việt",
+    "publishedAt": "2022",
+    "publisher": "NXB Thế Giới",
+    "pages": 204,
+    "description": "Thế giới đang đối mặt với những thay đổi chưa từng có. Những gì chúng ta chắc chắn vào 5 năm, hoặc 2 năm trước, giờ đây đang bị thử thách. Từ “cơn bão” của Trí tuệ nhân tạo, những chức năng, ứng dụng mới của các ngôn ngữ lập trình cho đến sự xuất hiện của đa dạng nền tảng công nghệ",
+    "reviews": [
+      {
+        "_id": {
+          "$oid": "623916047a11211da4cecb74"
+        },
+        "name": "user1",
+        "avatar": "https://res.cloudinary.com/dsvc4kfvh/image/upload/v1616465442/nextjs_media/enuyffce830snq6ykbqo.png",
+        "rating": 5,
+        "comment": "hay",
+        "user": {
+          "$oid": "62374319034efd14142bc29b"
+        },
+        "createdAt": {
+          "$date": "2022-03-22T00:19:16.703Z"
+        },
+        "updatedAt": {
+          "$date": "2022-03-22T00:19:16.703Z"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "6239168b7a11211da4cecb76"
+        },
+        "name": "user2",
+        "avatar": "https://res.cloudinary.com/dsvc4kfvh/image/upload/v1616465442/nextjs_media/enuyffce830snq6ykbqo.png",
+        "rating": 5,
+        "comment": "nice",
+        "user": {
+          "$oid": "623916727a11211da4cecb75"
+        },
+        "createdAt": {
+          "$date": "2022-03-22T00:21:31.813Z"
+        },
+        "updatedAt": {
+          "$date": "2022-03-22T00:21:31.813Z"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2022-03-14T04:34:51.266Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-22T00:21:31.814Z"
+    },
+    "__v": 4
+  }]
